@@ -1,0 +1,43 @@
+header{
+  font-size: 36px;
+  font-family: Roboto,sans-serif;
+  text-align: center;
+}
+main{
+  margin: 30px 8px;
+  background: #eee;
+}
+.description{
+  text-align: center; 
+}
+
+h3{
+  text-align: center;
+}
+
+img{
+  display: block;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+figure{
+  padding: 10px;
+}
+
+figcaption{
+  text-align: center;
+}
+
+section{
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  
+}
+
+li{
+  margin-bottom: 30px;
+  font-size: 1.3rem;
+}
